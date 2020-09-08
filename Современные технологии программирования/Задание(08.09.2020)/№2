@@ -1,0 +1,9 @@
+package com.company;
+import java.util.Scanner;
+public class taskss{
+    public static void main(String[] args){
+        int lol;
+        lol = 12;
+        System.out.println(lol);
+    }
+}

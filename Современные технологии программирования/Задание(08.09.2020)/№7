@@ -1,0 +1,10 @@
+package com.company;
+import java.util.Scanner;
+public  class taskss {
+    private static void taskSeven(int i) {
+        String res = String.valueOf(i);
+        char ch = res.charAt(res.length() - 2);
+
+        System.out.println("Ответ: " + ch);
+    }
+}

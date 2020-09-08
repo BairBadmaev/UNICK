@@ -1,0 +1,21 @@
+package com.company;
+import java.util.Scanner;
+public  class taskss{
+    public static void main(String[] args){
+        int lol, kek, f,a ,b;
+        lol =5;
+        kek =6;
+        f = lol ;
+        lol= kek;
+        kek = f;
+
+        a = 3;
+        b= 4;
+        a = b;
+        b = 3;
+        System.out.println(kek);
+        System.out.println(lol);
+        System.out.println(a);
+        System.out.print(b);
+    }
+    }

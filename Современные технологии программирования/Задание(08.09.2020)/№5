@@ -1,0 +1,13 @@
+package com.company;
+import java.util.Scanner;
+public  class taskss{
+    public static void main(String[] args){
+        Scanner num = new Scanner(System.in);
+        int a,b;
+        int f;
+        a = num.nextInt();
+        b = num.nextInt();
+        f = (a*a+b*b);
+        double c = Math.sqrt(f);
+        System.out.println(c);
+

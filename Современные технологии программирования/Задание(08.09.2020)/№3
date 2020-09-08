@@ -1,0 +1,12 @@
+package com.company;
+import java.util.Scanner;
+public  class taskss{
+    public static void main(String[] args){
+        int lol;
+        lol =5;
+        lol = lol+1;
+        lol +=1;
+        lol++;
+        System.out.println(lol);
+    }
+}

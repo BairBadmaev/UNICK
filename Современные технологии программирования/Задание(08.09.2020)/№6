@@ -1,0 +1,10 @@
+package com.company;
+import java.util.Scanner;
+public  class taskss{
+    public static void main(String[] args){
+        int v;
+        v=12345;
+        v=v%10;
+        System.out.println(v);
+    }
+}
